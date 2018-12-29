@@ -3,6 +3,7 @@
 /****************************************/
 /*Public Key generation from Private Key*/
 /****************************************/
+
 Note :  No nonce is assumed
 //! Key Generation
 
@@ -74,6 +75,7 @@ Output:  16 byte Public Key
 /****************************************/
 /*Private Key generation from Public Key*/
 /****************************************/
+
 Input :  16 byte Public Key
 Output:  16 byte Private Key
 
